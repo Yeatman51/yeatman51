@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### Portfolio
+
+### Stats
+
+![Jon Yeatman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeatman51&show_icons=true&theme=radical)
+
+### Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatman51)](https://github.com/Yeatman51/github-readme-stats)
+
 <!--
 **Yeatman51/yeatman51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
