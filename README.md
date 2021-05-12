@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-### Portfolio
+<!-- <img src="readme_banner.png" alt="header photo"><br> -->
+
+## About Me
+Experienced Business Owner with a demonstrated history of working in the computer software and graphics industry. Skilled in Business Planning, Operations Management, Web Design, HTML, CSS, and JavaScript. Strong operations professional with a Certificate focused in Full Stack Web Development from Michigan State University.
+
+---
+
+## Portfolio
+https://yeatman51.github.io/yeatman_portfolio/
+---
+
+---
 
 ### Stats
 
