@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center"><img src="JonYeatmanTimeline.png" alt=" Yeatman header photo" align="center"></p><br>
+
+<h1 align="center">I am looking forward to collaborating on future projects with you</h1>
+
 
 <!-- <img src="readme_banner.png" alt="header photo"><br> -->
 
