@@ -18,7 +18,7 @@ https://yeatman51.github.io/yeatman_portfolio/
 
 ### Stats
 
-![Jon Yeatman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeatman51&show_icons=true&theme=radical)
+![Jon Yeatman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeatman51&show_icons=true&theme=react)
 
 ### Languages
 
