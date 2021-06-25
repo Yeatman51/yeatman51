@@ -22,7 +22,7 @@ https://yeatman51.github.io/yeatman_portfolio/
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatman51)](https://github.com/Yeatman51/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatman51&langs_count=7)](https://github.com/Yeatman51/github-readme-stats)
 
 <!--
 **Yeatman51/yeatman51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
