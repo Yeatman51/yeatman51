@@ -1,4 +1,7 @@
-<p align="center"><img src="JonYeatmanTimeline.png" alt=" Yeatman header photo" align="center"></p><br>
+<div align="center">
+<img src="JonYeatmanTimeline.png" alt=" Yeatman header photo" align="center">
+</div>
+<br>
 
 <h1 align="center">I am looking forward to collaborating on future projects with you</h1>
 
@@ -11,19 +14,31 @@ Experienced Business Owner with a demonstrated history of working in the compute
 ---
 
 ## Portfolio
-https://yeatman51.github.io/yeatman_portfolio/
----
+http://www.jonlyeatman.com
 
 ---
+
 
 ### Stats
 
-![Jon Yeatman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeatman51&show_icons=true&theme=react)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeatman51&show_icons=true&theme=react" alt="Yeatman Github Stats photo"/>
+</div>
+
+
+<!-- ![Jon Yeatman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeatman51&show_icons=true&theme=react) -->
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatman51&langs_count=7)](https://github.com/Yeatman51/github-readme-stats)
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatman51&langs_count=7" alt="Yeatman Languages"/>
+</div>
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatman51&langs_count=7)](https://github.com/Yeatman51/github-readme-stats) -->
+
+
+
+---
 <!--
 **Yeatman51/yeatman51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
