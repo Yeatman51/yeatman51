@@ -31,7 +31,7 @@ http://www.jonlyeatman.com
 ### Languages
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatman51&langs_count=8" alt="Yeatman Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatman51&langs_count=10" alt="Yeatman Languages"/>
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatman51&langs_count=7)](https://github.com/Yeatman51/github-readme-stats) -->
