@@ -1,5 +1,5 @@
 <div align="center">
-<img src="JonYeatmanTimeline.png" alt=" Yeatman header photo" align="center">
+<img src="JonYeatmanTimeline.png" alt=" Jon Yeatman header photo" align="center">
 </div>
 <br>
 
@@ -9,7 +9,7 @@
 <!-- <img src="readme_banner.png" alt="header photo"><br> -->
 
 ## About Me
-Experienced Business Owner with a demonstrated history of working in the computer software and graphics industry. Skilled in Business Planning, Operations Management, Web Design, HTML, CSS, and JavaScript. Strong operations professional with a Certificate focused in Full Stack Web Development from Michigan State University.
+Experienced Business Owner with a demonstrated history of working in the computer software and graphics industry. Skilled in Business Planning, Operations Management, Data Analysis, Web Development, and Graphic Design. Strong operations professional with a Certificate focused in Full Stack Web Development from Michigan State University.
 
 ---
 
@@ -23,6 +23,9 @@ http://www.jonlyeatman.com
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeatman51&show_icons=true&theme=react" alt="Yeatman Github Stats photo"/>
+
+  <!-- [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Yeatman51&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
+
 </div>
 
 
@@ -31,7 +34,7 @@ http://www.jonlyeatman.com
 ### Languages
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatman51&langs_count=8" alt="Yeatman Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatman51&langs_count=13" alt="Yeatman Languages"/>
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatman51&langs_count=7)](https://github.com/Yeatman51/github-readme-stats) -->
