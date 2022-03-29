@@ -1,5 +1,5 @@
 <div align="center">
-<img src="JonYeatmanTimeline.png" alt=" Jon Yeatman header photo" align="center">
+<img src="jon-yeatman-timeline.png" alt=" Jon Yeatman header photo" align="center">
 </div>
 <br>
 
@@ -14,7 +14,10 @@ Experienced Business Owner with a demonstrated history of working in the compute
 ---
 
 ## Portfolio
-http://www.jonlyeatman.com
+http://www.jonyeatman.com
+
+## Linkedin
+https://www.linkedin.com/in/jon-yeatman/
 
 ---
 
