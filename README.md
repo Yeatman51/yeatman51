@@ -9,7 +9,11 @@
 <!-- <img src="readme_banner.png" alt="header photo"><br> -->
 
 ## About Me
-Experienced Business Owner with a demonstrated history of working in the computer software and graphics industry. Skilled in Business Planning, Operations Management, Data Analysis, Web Development, and Graphic Design. Strong operations professional with a Certificate focused in Full Stack Web Development from Michigan State University.
+Thorough and meticulous Project Manager passionate about helping businesses succeed. A former small business owner who has
+completed certificate programs focused on Data Analytics and Web Development. Organized problem solver with a strong technical
+aptitude and ability to partner with leadership, sales, marketing, support, and other important teams to maximize operations and
+interactions. Experience with various stages of the Software Development Lifecycle (SDLC) especially design, analysis, deployment, and
+maintenance.
 
 ---
 
