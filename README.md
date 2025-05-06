@@ -1,5 +1,5 @@
 <div align="center">
-<img src="jon-yeatman-timeline.png" alt=" Jon Yeatman header photo" align="center">
+<img src="Jon Portfolio Thumbnail.png" alt=" Jon Yeatman header photo" align="center">
 </div>
 <br>
 
