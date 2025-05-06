@@ -14,7 +14,7 @@ Experienced Business Owner with a demonstrated history of working in the compute
 ---
 
 ## Portfolio
-https://www.jonyeatman.com
+https://www.jonlyeatman.com
 
 ## Linkedin
 https://www.linkedin.com/in/jon-yeatman/
